@@ -17,9 +17,9 @@ from sklearn.metrics import average_precision_score
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-IMG_PATH        = "./data/VOCdevkit/VOC2012/JPEGImages/"
-train_json_path = "./data/VOCdevkit/VOC2012/cocoformatJson/voc_2012_train.json"
-val_json_path   = "./data/VOCdevkit/VOC2012/cocoformatJson/voc_2012_val.json"
+IMG_PATH        = "./dataset/VOCdevkit/VOC2012/JPEGImages/"
+train_json_path = "./dataset/VOCdevkit/VOC2012/cocoformatJson/voc_2012_train.json"
+val_json_path   = "./dataset/VOCdevkit/VOC2012/cocoformatJson/voc_2012_val.json"
 
 target_size = 224
 

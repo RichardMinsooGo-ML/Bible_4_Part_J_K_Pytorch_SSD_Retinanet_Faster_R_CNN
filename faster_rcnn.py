@@ -35,9 +35,9 @@ def jaccard(box_a: torch.Tensor, box_b: torch.Tensor) -> float:
     union = box_area(box_a).unsqueeze(1) + box_area(box_b).unsqueeze(0) - intersection
     return intersection / union
 
-IMG_PATH        = "./data/VOCdevkit/VOC2012/JPEGImages/"
-train_json_path = "./data/VOCdevkit/VOC2012/cocoformatJson/voc_2012_train.json"
-val_json_path   = "./data/VOCdevkit/VOC2012/cocoformatJson/voc_2012_val.json"
+IMG_PATH        = "./dataset/VOCdevkit/VOC2012/JPEGImages/"
+train_json_path = "./dataset/VOCdevkit/VOC2012/cocoformatJson/voc_2012_train.json"
+val_json_path   = "./dataset/VOCdevkit/VOC2012/cocoformatJson/voc_2012_val.json"
 
 target_size = 224
 num_classes = 20
