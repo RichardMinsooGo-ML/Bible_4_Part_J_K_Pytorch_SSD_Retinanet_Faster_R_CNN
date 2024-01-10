@@ -1,5 +1,3 @@
-#### $\circ$ Github : [https://github.com/RichardMinsooGo-ML/Bible_4_Part_J_K_Pytorch_SSD_Retinanet_Faster_R_CNN](https://github.com/RichardMinsooGo-ML/Bible_4_Part_J_K_Pytorch_SSD_Retinanet_Faster_R_CNN)
-
 This repository is folked from [https://github.com/MrParosk/ml_playground](https://github.com/MrParosk/ml_playground).
 At this repository, simplification and explanation and will be tested at Colab Environment.
 
