@@ -25,11 +25,11 @@ At this repository, simplification and explanation and will be tested at Colab E
 ## Faster R-CNN
 #### Engilish
 *  **Theory** : [https://wikidocs.net/204455](https://wikidocs.net/204455) <br>
-*  **Implementation** : [https://wikidocs.net/226581](https://wikidocs.net/226581)
+*  **Implementation** : [https://wikidocs.net/227354](https://wikidocs.net/227354)
 
 #### 한글
 *  **Theory** : [https://wikidocs.net/204453](https://wikidocs.net/204453) <br>
-*  **Implementation** : [https://wikidocs.net/226579](https://wikidocs.net/226579)
+*  **Implementation** : [https://wikidocs.net/227356](https://wikidocs.net/227356)
 
 
 ## Clone from Github and install library
